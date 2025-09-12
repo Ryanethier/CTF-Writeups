@@ -1,4 +1,7 @@
 title: "CTF Writeups"
 description: "Writeups and notes from my CTF journey"
 theme: jekyll-theme-hacker
-markdown: kramdown
+
+# These two lines make links work under /CTF-Writeups/
+url: "https://ryanethier.github.io"
+baseurl: "/CTF-Writeups"
