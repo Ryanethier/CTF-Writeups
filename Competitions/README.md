@@ -6,8 +6,8 @@
 ### 2025
 - [MetaCTF 2025 – Qualifier](./MetaCTF-Road-to-CyberBay-2025)
 
-### 2024 (Archived)
-- Add older competitions here if needed.
+### (Archived)
+
 
 ---
 
