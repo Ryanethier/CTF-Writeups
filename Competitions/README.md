@@ -4,8 +4,7 @@
 ## 📝 Competition Writeups
 
 ### 2025
-- [MetaCTF 2025 – Qualifier](./MetaCTF-2025-Qualifier/)  
-- [NCAE CyberGames 2025](./NCAE-CyberGames-2025/)  
+- [MetaCTF 2025 – Qualifier](./MetaCTF-Road to CyberBay-2025/)
 
 ### 2024 (Archived)
 - Add older competitions here if needed.
