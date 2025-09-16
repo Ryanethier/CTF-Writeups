@@ -17,5 +17,6 @@ Not every solved challenge has a writeup — this folder contains only the ones 
 ## Notes
 - All terminal prompts have been standardized to `rethier@kali` for consistency.  
 - Flags are redacted in these public writeups.  
-- These solutions focus on methodology and key insights rather than just the final exploit or script.  
+- These solutions focus on methodology and key insights rather than just the final exploit or script.
+- Our team **LinuxCats333** placed **34th out of 400+** teams in this competition.
 
