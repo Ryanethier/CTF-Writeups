@@ -54,7 +54,7 @@ Decoding the numeric arrays yields the flag.
 ---
 
 ## Flag
-`MetaCTF{DeltaBasedCompression}`  
+`MetaCTF{redacted}`  
 
 ---
 
