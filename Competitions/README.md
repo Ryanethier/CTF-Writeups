@@ -4,7 +4,7 @@
 ## 📝 Competition Writeups
 
 ### 2025
-- [MetaCTF 2025 – Qualifier](./MetaCTF-Road-to-CyberBay-2025)
+- [MetaCTF 2025 – Qualifier](Competitions/MetaCTF-Road-To-CyberBay)
 
 ### (Archived)
 
