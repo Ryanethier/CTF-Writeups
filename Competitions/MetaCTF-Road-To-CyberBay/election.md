@@ -65,7 +65,7 @@ The six most suspicious stations (IDs):
 ---
 
 ## Flag
-`MetaCTF{4b45c819 81b7bc0c a4defb9c 1251749b 1fe457e4 329071ee}`  
+`MetaCTF{redacted}`  
 
 ---
 
