@@ -14,7 +14,7 @@ I document step-by-step approaches, tools/commands, and lessons learned.
 - [Competitions]({{ site.baseurl }}/Competitions/)
 
 ## 📝 Latest (manually curated)
-- (Add links to your newest writeups here)
+- [MetaCTF 2025 – Road to Cyber Bay]({{ site.baseurl }}/Competitions/MetaCTF-Road-To-CyberBay/)
 
 ## ⚙️ How I Work
 - Recon: `nmap`, `ffuf/gobuster`, `whatweb`, `nikto`
